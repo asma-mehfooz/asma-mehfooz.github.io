@@ -1,0 +1,86 @@
+:root {
+    --border-color: #e3e5e4;
+    --background-color: yellow;
+    --text-color: #34444f;
+  }
+  
+  * {
+    box-sizing: border-box;
+    
+  }
+  
+  body {
+    background-color: #aac8e0;
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    justify-content: flex-start;
+    height: 60vh;
+    margin: 0;
+    font-family: 'Ariel', sans-serif;
+  }
+  #div1{position:relative;margin-top:10%;margin-left:60%;height:20vh;width:10vw;border:solid;size:5px;color:yellow;}
+  #gi{ height: 30vh;width: 40vw;margin-left: 70%;margin-top:-12%;position:absolute;}
+  #neW ul li a:hover{color:aqua;}
+   #s{margin-top:20%;color:rgb(72, 110, 233);font-size: medium; position:absolute;margin-left: 70%;}
+  #btn{margin-left:  7%;border-radius: 1px;color: #000;margin-top:0%;position:absolute;color: #000000c7;}
+  #int{height: 41%;width: 10%;margin-top: -10%;padding:5%;}
+  #neW ul {margin-top:2%;margin-left: 26%;display:inline-block;}
+  #one{margin-top: -10%;}
+  #neW ul li
+  {display:inline; color: #eef8c8;
+    padding:30px;margin-bottom: 30%;
+    
+  }
+  
+  
+  
+  #neW2 ul li a:hover{color:aqua;}
+   
+  
+  #neW2 ul {margin-top:5%;margin-left:-86;}
+  
+  #neW2 ul li
+  {display:inline; color: #df5718;
+    padding:50px;margin-bottom: 30%;
+    
+  }
+  #neW2 ul li:nth-child(1)
+  {display:inline; color: #cc3878;
+  
+    
+    }
+  
+  
+  #ne1 ul 
+  {display:inline; color: #cc3878;
+   margin-left: 15%;  margin-top: 20%;
+  }
+  #ne1 ul li
+  {display:inline; color: #cc3878;
+    padding:65px;
+      }
+  
+      #ne2 ul 
+      {display:inline; color: #cc3878;
+       margin-left: 20%;  margin-top: 20%;
+      }
+      #ne2 ul li
+      {display:inline; color: #cc3878;
+        padding:5%;
+          }
+    #contact{color: #34444f;margin-right:69%;margin-top:5%;position: absolute;}
+  .heading{text-align: center;}
+  
+  #neW3 ul {margin-top:11%; position: relative;margin-left: 10%;}
+  
+  
+  #neW3 ul li
+  {display:inline; color: #cc3878;
+    padding:45px;
+    
+  }
+  
+  #neW3 ul li a:hover{color:aqua;padding:43px;}
+  #ne3 ul{padding-left: 30%;display: inline;}
+  #ne3 ul li{padding: 30%;display: inline;} 
