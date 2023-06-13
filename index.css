@@ -19,7 +19,7 @@
     margin: 0;
     font-family: 'Ariel', sans-serif;
   }
-  .heading{text-align: center; margin-left: 2%;}
+  .heading{text-align: center; margin-left: 2%; margin-top:22%}
   
   #div1{position:relative;margin-top:10%;margin-left:60%;height:20vh;width:10vw;border:solid;size:5px;color:yellow;}
   #gi{ height: 30vh;width: 40vw;margin-left: 70%;margin-top:-12%;position:absolute;}
@@ -28,7 +28,7 @@
   #btn{margin-left:  7%;border-radius: 1px;color: #000;margin-top:0%;position:absolute;color: #000000c7;}
   #int{height: 41%;width: 10%;margin-top: -6%;padding:5%; margin-left:-5%;position:absolute;}
   #neW ul {margin-top:2%;margin-left: 16%;display:inline-block;width:50vw;}
-  #one{margin-top:-8%;margin-left:2%}
+  #one{margin-top:8%;margin-left:2%}
   #neW ul li
   {display:inline; color: #eef8c8;
     padding:1%;margin-bottom: 30%;
