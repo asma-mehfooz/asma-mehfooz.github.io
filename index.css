@@ -22,7 +22,7 @@
   .heading{text-align: center; margin-left: 2%; margin-top:22%}
   
   #div1{position:relative;margin-top:10%;margin-left:60%;height:20vh;width:10vw;border:solid;size:5px;color:yellow;}
-  #gi{ height: 30vh;width: 40vw;margin-left: 70%;margin-top:-12%;position:absolute;}
+  #gi{ height: 30vh;width: 40vw;margin-left: 60%;margin-top:-12%;position:absolute;}
   #neW ul li a:hover{color:aqua;}
    #s{margin-top:20%;color:rgb(72, 110, 233);font-size: medium; position:absolute;margin-left: 70%;}
   #btn{margin-left:  7%;border-radius: 1px;color: #000;margin-top:20%;position:absolute;color: #000000c7;}
