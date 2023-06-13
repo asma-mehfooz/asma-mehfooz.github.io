@@ -19,7 +19,7 @@
     margin: 0;
     font-family: 'Ariel', sans-serif;
   }
-  .heading{text-align: center; margin-left: 2%; margin-top:22%}
+  .heading{text-align: center; margin-left: -12%; margin-top:22%}
   
   #div1{position:relative;margin-top:10%;margin-left:60%;height:20vh;width:10vw;border:solid;size:5px;color:yellow;}
   #gi{ height: 30vh;width: 40vw;margin-left: 60%;margin-top:-12%;position:absolute;}
